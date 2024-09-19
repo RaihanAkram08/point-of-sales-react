@@ -1,0 +1,44 @@
+[
+      {
+        "id": 1,
+        "title": "Almond Brown Sugar Croissant",
+        "description": "Sweet croissant with topping almonds and brown sugar",
+        "price": "35000",
+        "img": "./assets/croissant-almond.png"
+      },
+      {
+        "id": 2,
+        "title": "Smoke Tenderloin Slice Croissant",
+        "description": "Plain croissant with smoke tenderloin beef sliced and vegetable",
+        "price": "40000",
+        "img": "./assets/croissant-smoke.png"
+      },
+      {
+        "id": 3,
+        "title": "Berry Whipped Cream Croissant",
+        "description": "Sweet croissant with blueberries and strawberries inside",
+        "price": "43000",
+        "img": "./assets/croissant-whipped.png"
+      },
+      {
+        "id": 4,
+        "title": "Sweet Granulated Sugar Croissant",
+        "description": "Sweet croissant with topping almonds and brown sugar",
+        "price": "38000",
+        "img": "./assets/croissant-granulated.png"
+      },
+      {
+        "id": 5,
+        "title": "Sweet Chocolate Chocochips Croissant",
+        "description": "Plain croissant with smoke tenderloin beef sliced and vegetable",
+        "price": "39000",
+        "img": "./assets/croissant-chocochip.png"
+      },
+      {
+        "id": 6,
+        "title": "Basic Croissant La Ta Dhore",
+        "description": "Sweet croissant with blueberries and strawberries inside",
+        "price": "41000",
+        "img": "./assets/croissant-basic.png"
+      }
+]
